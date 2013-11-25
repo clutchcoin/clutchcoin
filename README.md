@@ -1,3 +1,3 @@
-FooCoin (FOO)
+ClutchCoin (CCN)
 
 Blah, blah, blah.
